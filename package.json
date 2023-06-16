@@ -1,0 +1,24 @@
+{
+  "name": "modulo-19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass":"sass",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamires1camargo/exercicio_M19.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamires1camargo/exercicio_M19/issues"
+  },
+  "homepage": "https://github.com/tamires1camargo/exercicio_M19#readme",
+  "devDependencies": {
+    "sass": "^1.63.4"
+  }
+}
